@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @filip-opalka
+- 👀 I’m interested in Live production, scripting, frontend and networking.
+- 🌱 I’m currently learning networking.
+- 📫 How to reach me: hello@filipopalka.com
