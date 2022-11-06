@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @filip-opalka
+- 👋 Hi, I’m [@filip-opalka](https://www.instagram.com/filip_opalka)
 - 👀 I’m interested in Live production, scripting, frontend and computer networks.
 - 🌱 I’m currently getting better in computer networks.
 - 📫 How to reach me: hello@filipopalka.com
